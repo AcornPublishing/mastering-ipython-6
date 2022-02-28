@@ -1,0 +1,1 @@
+Commands are available in the book which do not require files. They can be tested using the sofwtare specification provided. 
